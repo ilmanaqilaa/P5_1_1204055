@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\obj\Debug\P5_1_1204055.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\obj\Debug\P5_1_1204055.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\bin\Debug\P5_1_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\bin\Debug\P5_1_1204055.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\obj\Debug\P5_1_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055\obj\Debug\P5_1_1204055.pdb

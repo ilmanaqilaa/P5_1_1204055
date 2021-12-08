@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\bin\Debug\P5_1_1204055_Host.exe.config
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\bin\Debug\P5_1_1204055_Host.exe
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\bin\Debug\P5_1_1204055_Host.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\bin\Debug\P5_1_1204055.dll
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\bin\Debug\P5_1_1204055.pdb
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.Form1.resources
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.Properties.Resources.resources
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.csproj.CopyComplete
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.exe
+C:\Users\HP\Documents\Ilman\Projects\Pemrograman II\Tugas V\P5_1_1204055_Host\obj\Debug\P5_1_1204055_Host.pdb
